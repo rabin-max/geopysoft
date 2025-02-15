@@ -1,4 +1,0 @@
- 
-# geopysoft module
-
-::: geopysoft.geopysoft
